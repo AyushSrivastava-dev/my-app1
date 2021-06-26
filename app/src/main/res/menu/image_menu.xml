@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/more_image">
+        <menu>
+
+            <item
+                android:id="@+id/wallpaper"
+                app:showAsAction="never"
+                android:title="Set as wallpaper"/>
+            <item
+                android:id="@+id/transition"
+                app:showAsAction="never"
+                android:title="Transition"/>
+            <item
+                android:id="@+id/slide_show"
+                app:showAsAction="never"
+                android:title="Slideshow"/>
+            <item
+                android:id="@+id/details"
+                app:showAsAction="never"
+                android:title="Details"/>
+        </menu>
+    </item>
+
+</menu>

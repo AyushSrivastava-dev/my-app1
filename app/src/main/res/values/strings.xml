@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GALLERY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show_name">GALLERY</string>
+    <string name="photos_name">PHOTOS</string>
+    <string name="videos_name">VIDEOS</string>
+</resources>
